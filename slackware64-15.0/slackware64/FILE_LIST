@@ -1,0 +1,8 @@
+Mi 24. Aug 12:06:14 CEST 2022
+
+Directory listing of 
+
+drwxrwxrwx  3 Debian users        6 2022-08-24 12:06 .
+-rw-rw-rw-  1 Debian users       54 2022-08-24 12:06 ./FILE_LIST
+drwxrwxrwx  2 Debian users        3 2022-08-24 11:52 ./powertop
+-rw-rw-rw-  1 Debian users  2126852 2022-08-24 11:50 ./powertop/powertop-2.14-x86_64-1.txz
