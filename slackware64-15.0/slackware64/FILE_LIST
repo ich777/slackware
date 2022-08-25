@@ -1,7 +1,9 @@
-drwxrwxrwx  4 Debian users        8 2022-08-25 09:26 .
--rw-rw-rw-  1 Debian users      217 2022-08-25 09:23 ./CHECKSUMS.md5
--rw-rw-rw-  1 Debian users       54 2022-08-25 09:26 ./FILE_LIST
-drwxrwxrwx  2 Debian users        3 2022-08-25 09:24 ./ipmitool
--rw-rw-rw-  1 Debian users  1028544 2022-08-25 09:09 ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
-drwxrwxrwx  2 Debian users        3 2022-08-25 09:23 ./powertop
--rw-rw-rw-  1 Debian users  2126852 2022-08-25 09:23 ./powertop/powertop-2.14-x86_64-1.txz
+drwxrwxrwx  5 Debian users        9 2022-08-25 09:57 .
+drwxrwxrwx  2 Debian users        3 2022-08-25 09:57 ./borgbackup
+-rw-rw-rw-  1 Debian users  4169268 2022-08-25 09:56 ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
+-rw-rw-rw-  1 Debian users      291 2022-08-25 09:57 ./CHECKSUMS.md5
+-rw-rw-rw-  1 Debian users       54 2022-08-25 09:57 ./FILE_LIST
+drwxrwxrwx  2 Debian users        3 2022-08-25 09:57 ./ipmitool
+-rw-rw-rw-  1 Debian users  1028544 2022-08-25 09:57 ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
+drwxrwxrwx  2 Debian users        3 2022-08-25 09:57 ./powertop
+-rw-rw-rw-  1 Debian users  2126852 2022-08-25 09:57 ./powertop/powertop-2.14-x86_64-1.txz
