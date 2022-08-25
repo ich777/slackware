@@ -44,11 +44,17 @@ EOF
 find ${1} -exec ls -dl${SIZEOP} --full-time {} \; \
         | awk '{ printf("%10s %2s %4s %4s %8s %10s %-5.5s %s\n",$1,$2,$3,$4,$5,$6,$7,$9) }' > templist.txt
 
+if [ -f ${LISTFILE} ]; then
+  rm -f ${LISTFILE}
+fi
 sort +7d templist.txt >> ${LISTFILE}
 rm templist.txt
 sed -i '/templist.txt/d' ${LISTFILE}
 sed -i '/buildlist.sh/d' ${LISTFILE}
 
+if [ -f ${CHECKFILE} ]; then
+  rm -f ${CHECKFILE}
+fi
 find ${1} -exec md5sum {} \; >> ${CHECKFILE}
 
 echo "Done!"

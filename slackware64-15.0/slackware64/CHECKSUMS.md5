@@ -1,4 +1,5 @@
+2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
+f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
+889d6db17a23022e889d6bad82216d72  ./CHECKSUMS.md5
 a540f5e2df9d37b8266d876ce588223a  ./powertop/powertop-2.14-x86_64-1.txz
-d29bb3a0418638fb1a08a7910467ba93  ./buildlist.sh
-90dbc2724f4d452e6a1cf28dec7af54d  ./FILE_LIST
-98382c5f70dd815f0bff40724c4d2a80  ./CHECKSUMS.md5
+f334eccd8e744e5471cb0e946e6a9f59  ./FILE_LIST
