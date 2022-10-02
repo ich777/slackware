@@ -1,6 +1,6 @@
-b40b13f6f4ed3f13e7c33a8c6dd663bc  ./FILE_LIST
-f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
 2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
 fd7110f045507d243e8b0a71e5a20b4f  ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
-a540f5e2df9d37b8266d876ce588223a  ./powertop/powertop-2.14-x86_64-1.txz
-bd779ae80d12d632712dd35f86d37981  ./CHECKSUMS.md5
+1a8d92187b0597e7bf5316069583dd41  ./CHECKSUMS.md5
+921450abac5d93381f077f234eed47bc  ./powertop/powertop-2.15-x86_64-1.txz
+f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
+25b4b2817b190f5a1bb2d6a3da7b4d67  ./FILE_LIST
