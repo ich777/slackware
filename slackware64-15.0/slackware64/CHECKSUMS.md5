@@ -1,10 +1,10 @@
-6e62b69adbe5386784e59876e1e6f55d  ./cpsumon/cpsumon-20180114-x86_64-1.txz
-2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
 3c4f0423784e63ba0b6cf553f7370226  ./ctop/ctop-0.7.7-x86_64-1.txz
 a75583136aca2a6ba9bbf8e2cb54c066  ./btop/btop-1.2.12-x86_64-1.txz
-76793d16f6886fb2ebba0e1f5ad33150  ./fio/fio-3.33-x86_64-1.txz
-6c99a9f77c0c8e45e43b0c09c550a139  ./FILE_LIST
-a8cec8db9475ae9e9b80636ee101e6ee  ./powertop/powertop-2.15-x86_64-1.txz
-5c9859f9ab9dcddbbd670f30bfff3bc6  ./CHECKSUMS.md5
-f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
 fd7110f045507d243e8b0a71e5a20b4f  ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
+c7b749e4064741aa8a7fc21126591fe3  ./CHECKSUMS.md5
+2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
+9f08c7c771670eb3dabd95d262603b95  ./fio/fio-3.33-x86_64-1.txz
+a8cec8db9475ae9e9b80636ee101e6ee  ./powertop/powertop-2.15-x86_64-1.txz
+6e5c0e015fa7c2d8b23ea335d24c3d86  ./FILE_LIST
+6e62b69adbe5386784e59876e1e6f55d  ./cpsumon/cpsumon-20180114-x86_64-1.txz
+f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
