@@ -1,9 +1,9 @@
 96a98580e63d419bfa5a1aefbe3a989c  ./cpsumon/cpsumon-20180114-x86_64-1.txz
 03de1ca4ea62f545fab16659d9d37932  ./powertop/powertop-2.15-x86_64-1.txz
-84a5406892cfc9fb23bea67012827044  ./FILE_LIST
+9ed6db4fc6e6c9c98c3061060c46f597  ./FILE_LIST
 f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
-4a740f5f0f7d26995eb8dcaae351ce20  ./fish/fish-3.6.0-x86_64-1.txz
-cde89a49e75ed95ae208397e3091c428  ./CHECKSUMS.md5
+b2b1cfce862436fd3f508e505cfeaccd  ./fish/fish-3.6.1-x86_64-1.txz
+26ebe3ba4e9d09a69a72437bb8a36f61  ./CHECKSUMS.md5
 fd7110f045507d243e8b0a71e5a20b4f  ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
 2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
 5ffec883762f0e5ab1e7726803d29874  ./fio/fio-3.34-x86_64-1.txz
