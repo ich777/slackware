@@ -1,6 +1,6 @@
-drwxr-xr-x 11 root root       15 2023-04-04 08:27 .
--rw-r--r--  1 root root      701 2023-03-25 15:02 ./CHECKSUMS.md5
--rw-r--r--  1 root root       57 2023-04-04 08:27 ./FILE_LIST
+drwxr-xr-x 11 root root       15 2023-05-23 22:00 .
+-rw-r--r--  1 root root      778 2023-04-04 08:27 ./CHECKSUMS.md5
+-rw-r--r--  1 root root       57 2023-05-23 22:00 ./FILE_LIST
 drwxr-xr-x  2 root root        3 2023-01-31 20:18 ./borgbackup
 -rw-r--r--  1 root root  4169268 2023-01-31 20:18 ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-01-31 20:52 ./btop
@@ -9,8 +9,8 @@ drwxr-xr-x  2 root root        3 2023-01-31 21:17 ./cpsumon
 -rw-r--r--  1 root root    11748 2023-01-31 21:17 ./cpsumon/cpsumon-20180114-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-01-31 21:19 ./ctop
 -rw-r--r--  1 root root  3707168 2023-01-31 21:19 ./ctop/ctop-0.7.7-x86_64-1.txz
-drwxr-xr-x  2 root root        3 2023-03-14 15:00 ./fio
--rw-r--r--  1 root root  2248808 2023-03-14 15:00 ./fio/fio-3.34-x86_64-1.txz
+drwxr-xr-x  2 root root        3 2023-05-23 22:00 ./fio
+-rw-r--r--  1 root root  2251412 2023-05-23 22:00 ./fio/fio-3.35-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-03-25 15:02 ./fish
 -rw-r--r--  1 root root  2079928 2023-03-25 15:02 ./fish/fish-3.6.1-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-01-31 20:18 ./ipmitool
