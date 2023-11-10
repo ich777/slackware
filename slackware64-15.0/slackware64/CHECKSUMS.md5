@@ -2,12 +2,12 @@
 02b37556852ed982fb0a539dfc42f720  ./python3-lxc/python3-lxc-5.0.0-x86_64-1.txz
 deac836a0edf1004091cd67b07794f61  ./freeipmi/freeipmi-1.6.11-x86_64-1.txz
 03de1ca4ea62f545fab16659d9d37932  ./powertop/powertop-2.15-x86_64-1.txz
-411bdf5ad82a96faba12fcdd5924cbae  ./FILE_LIST
+537665eec9d9bdc65e967a5ed9b45c73  ./FILE_LIST
 f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
-1b44f8f5a13bc6815dcdfbf692a5e4a0  ./irqbalance/irqbalance-1.9.2-x86_64-1.txz
+7488a867bb22d507d3d1b32c1074c80e  ./irqbalance/irqbalance-1.9.3-x86_64-1.txz
 7368c2dd756524709a914e687b28dfd3  ./nut/nut-2.8.1-x86_64-1.txz
 b2b1cfce862436fd3f508e505cfeaccd  ./fish/fish-3.6.1-x86_64-1.txz
-4a66d9ca9843ca447ee78e4420fa621e  ./CHECKSUMS.md5
+961206d378cb988f1995960240f71342  ./CHECKSUMS.md5
 fd7110f045507d243e8b0a71e5a20b4f  ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
 2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
 49b188ecc1bf3c26ced6739c5ee53c8f  ./fio/fio-3.36-x86_64-1.txz
