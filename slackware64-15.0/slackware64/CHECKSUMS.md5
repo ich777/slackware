@@ -1,11 +1,11 @@
-78059f743b7666e5bad84816a6ee4699  ./FILE_LIST
+6b513c379d189016e74c925cac9462b0  ./FILE_LIST
 deac836a0edf1004091cd67b07794f61  ./freeipmi/freeipmi-1.6.11-x86_64-1.txz
 03de1ca4ea62f545fab16659d9d37932  ./powertop/powertop-2.15-x86_64-1.txz
 7488a867bb22d507d3d1b32c1074c80e  ./irqbalance/irqbalance-1.9.3-x86_64-1.txz
 f776ee9d005619ec5f882f03d91f1575  ./ipmitool/ipmitool-1.8.18-x86_64-1.txz
 2f0839645ff12d6d6f8d0bb30697d116  ./buildlist.sh
 7ced7c6e0d64e9412a2acc4bcac90e9e  ./fish/fish-3.6.3-x86_64-1.txz
-5ede169b8dfb7a54af953a02700f57fd  ./CHECKSUMS.md5
+ae6074597058db83dfdbbcca220ac2c8  ./CHECKSUMS.md5
 49b188ecc1bf3c26ced6739c5ee53c8f  ./fio/fio-3.36-x86_64-1.txz
 96a98580e63d419bfa5a1aefbe3a989c  ./cpsumon/cpsumon-20180114-x86_64-1.txz
 0481f1fda753f0c707ff42232fb68a4f  ./btop/btop-1.2.13-x86_64-1.txz
