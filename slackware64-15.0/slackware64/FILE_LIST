@@ -1,6 +1,6 @@
-drwxr-xr-x 16 root root       19 2023-12-05 15:00 .
--rw-r--r--  1 root root     1059 2023-12-05 15:00 ./CHECKSUMS.md5
--rw-r--r--  1 root root       57 2023-12-05 15:01 ./FILE_LIST
+drwxr-xr-x 16 root root       20 2024-01-01 23:01 .
+-rw-r--r--  1 root root     1820 2023-12-05 23:00 ./CHECKSUMS.md5
+-rw-r--r--  1 root root       57 2024-01-01 23:01 ./FILE_LIST
 drwxr-xr-x  2 root root        3 2023-01-31 20:18 ./borgbackup
 -rw-r--r--  1 root root  4169268 2023-01-31 20:18 ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-01-31 20:52 ./btop
@@ -11,8 +11,8 @@ drwxr-xr-x  2 root root        3 2023-01-31 21:19 ./ctop
 -rw-r--r--  1 root root  3707168 2023-01-31 21:19 ./ctop/ctop-0.7.7-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-10-20 14:00 ./fio
 -rw-r--r--  1 root root  2276596 2023-10-20 14:00 ./fio/fio-3.36-x86_64-1.txz
-drwxr-xr-x  2 root root        3 2023-12-05 15:01 ./fish
--rw-r--r--  1 root root  2079960 2023-12-05 15:01 ./fish/fish-3.6.4-x86_64-1.txz
+drwxr-xr-x  2 root root        3 2024-01-01 23:00 ./fish
+-rw-r--r--  1 root root  2110520 2024-01-01 23:00 ./fish/fish-3.7.0-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-07-31 14:02 ./freeipmi
 -rw-r--r--  1 root root  2042364 2023-07-31 14:02 ./freeipmi/freeipmi-1.6.11-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-01-31 20:18 ./ipmitool
