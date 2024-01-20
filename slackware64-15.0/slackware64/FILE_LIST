@@ -1,6 +1,6 @@
-drwxr-xr-x 16 root root       20 2024-01-07 15:00 .
--rw-r--r--  1 root root     1059 2024-01-01 23:01 ./CHECKSUMS.md5
--rw-r--r--  1 root root       57 2024-01-07 15:00 ./FILE_LIST
+drwxr-xr-x 16 root root       20 2024-01-20 23:00 .
+-rw-r--r--  1 root root     1058 2024-01-07 15:00 ./CHECKSUMS.md5
+-rw-r--r--  1 root root       57 2024-01-20 23:00 ./FILE_LIST
 drwxr-xr-x  2 root root        3 2023-01-31 20:18 ./borgbackup
 -rw-r--r--  1 root root  4169268 2023-01-31 20:18 ./borgbackup/borgbackup-1.1.15-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2024-01-07 15:00 ./btop
@@ -21,8 +21,8 @@ drwxr-xr-x  2 root root        3 2023-11-10 15:00 ./irqbalance
 -rw-r--r--  1 root root   137220 2023-11-10 15:00 ./irqbalance/irqbalance-1.9.3-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-10-31 23:00 ./nut
 -rw-r--r--  1 root root  1016824 2023-10-31 23:00 ./nut/nut-2.8.1-x86_64-1.txz
-drwxr-xr-x  2 root root        3 2023-07-17 13:52 ./pixz
--rw-r--r--  1 root root    56864 2023-07-17 13:52 ./pixz/pixz-1.0.7-x86_64-1.txz
+drwxr-xr-x  2 root root        3 2024-01-20 23:00 ./pixz
+-rw-r--r--  1 root root      776 2024-01-20 23:00 ./pixz/pixz-1.0.6-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2023-01-31 21:23 ./powertop
 -rw-r--r--  1 root root  2159332 2023-01-31 21:23 ./powertop/powertop-2.15-x86_64-1.txz
 drwxr-xr-x  2 root root        2 2023-06-29 13:05 ./python3_lxc
