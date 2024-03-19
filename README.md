@@ -1,3 +1,7 @@
+# DEPRECATED
+## This repository is no longer actively maintained
+  
+  
 # Slackware 15.0 Repository
 
 Test Slackware Repository for un-get, add this line to your `/boot/config/plugins/un-get/sources.list`:
